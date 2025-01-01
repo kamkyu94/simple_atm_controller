@@ -24,7 +24,7 @@ In test.py try each...
 9. Ask if you want more action
 
 ## Details
-- controller.py works as main function for atm controller
+- controller.py works as main function for an atm controller
 - Predefined cards are save in "check_valid.py"
 - Predefined accounts are save in "account.py"
 
